@@ -1,6 +1,10 @@
-# interest_calculator
+# Simple Interest Calculator
 
-A simple Flutter Interest Calculator Application.
+A simple Flutter Interest Calculator Application. It is my first Flutter that I created while learning to develop mobile app with Flutter.
+
+## Screenshot
+
+![App Screenshot](/screenshots/screenshot.png)
 
 ## Getting Started
 
